@@ -1,11 +1,11 @@
 {
-  "name": "@nfls-hydrooj/ui-default",
-  "version": "4.50.0",
-  "author": "guosoun",
+  "name": "@hydrooj/ui-default",
+  "version": "4.49.5",
+  "author": "undefined <i@undefined.moe>",
   "license": "AGPL-3.0",
   "main": "index.ts",
   "types": "api.ts",
-  "repository": "https://github.com/guosoun/Hydro.git",
+  "repository": "https://github.com/hydro-dev/Hydro.git",
   "preferUnplugged": true,
   "scripts": {
     "lint": "eslint"

@@ -1,3 +1,5 @@
-# NFLS-Hydro-UI-Default
+# Hydro-UI-Default
 
-This is a fork of [Github repository](https://github.com/hydro-dev/Hydro)
+Based on Vijos-UI-Framework  
+
+See [vijos/vj4/vj4/ui/README.md](https://github.com/vijos/vj4/blob/master/vj4/ui/README.md)  
